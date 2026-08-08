@@ -3,4 +3,6 @@
 
 - Username
 - Password
-- Boss
+- Date
+- location
+- time
