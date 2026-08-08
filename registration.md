@@ -1,4 +1,4 @@
-#Student Registration
+# Student Registration
 
 Students can register using:
 
