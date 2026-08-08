@@ -1,4 +1,4 @@
-# Student Incorrect
+# Student Registration
 
 Students can incorrect using:
 
