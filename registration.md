@@ -1,6 +1,6 @@
 # Student Registration
 
-Students can incorrect using:
+Students can Register using:
 
 - Name
 - Email
